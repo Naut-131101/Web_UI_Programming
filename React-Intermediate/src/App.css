@@ -1,0 +1,24 @@
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.square {
+  border: 1px solid #777;
+  width: 34px;
+  height: 34px;
+  text-align: center;
+  padding: 0;
+  font-size: 24px;
+  line-height: 34px;
+  background-color: #fff;
+  margin-top: -1px;
+  margin-left: -1px;
+}
+
+.board-row {
+  /* float: left; */
+
+  display: flex;
+}

@@ -1,0 +1,40 @@
+{
+  "scientists": [
+    {
+      "name": "Albert Einstein",
+      "title": "theoretical physicist",
+      "avatar": "/data/scientist/img001.png",
+      "description": "Albert Einstein was a German-born theoretical physicist who is best known for developing the theory of relativity. Einstein also made important contributions to quantum mechanics. His mass–energy equivalence formula E = mc², which arises from special relativity, has been called \"the world's most famous equation\"."
+    },
+    {
+      "name": "Isaac Newton",
+      "title": "mathematician",
+      "avatar": "/data/scientist/img002.png",
+      "description": "Sir Isaac Newton was an English polymath active as a mathematician, physicist, astronomer, alchemist, theologian, and author. Newton was a key figure in the Scientific Revolution and the Enlightenment that followed."
+    },
+    {
+      "name": "Marie Curie",
+      "title": "physicist and chemist",
+      "avatar": "/data/scientist/img003.png",
+      "description": "Maria Salomea Skłodowska-Curie, known simply as Marie Curie, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity."
+    },
+    {
+      "name": "Charles Darwin",
+      "title": "naturalist, geologist, and biologist",
+      "avatar": "/data/scientist/img004.png",
+      "description": "Charles Robert Darwin was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology. His proposition that all species of life have descended from a common ancestor is now generally accepted and considered a fundamental scientific concept."
+    },
+    {
+      "name": "Galileo Galilei",
+      "title": "astronomer, physicist and engineer",
+      "avatar": "/data/scientist/img005.png",
+      "description": "Galileo di Vincenzo Bonaiuti de' Galilei, commonly referred to as Galileo Galilei or mononymously as Galileo, was an Italian astronomer, physicist and engineer, sometimes described as a polymath. He was born in the city of Pisa, then part of the Duchy of Florence."
+    },
+    {
+      "name": "Stephen Hawking",
+      "title": "theoretical physicist",
+      "avatar": "/data/scientist/img006.png",
+      "description": "Stephen William Hawking was an English theoretical physicist, cosmologist, and author who was director of research at the Centre for Theoretical Cosmology at the University of Cambridge."
+    }
+  ]
+}
