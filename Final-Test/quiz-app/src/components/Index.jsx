@@ -31,7 +31,7 @@ export default function Index() {
     // nếu chưa hết câu hỏi thì sang câu tiếp theo
     // đồng thời reset selectedOption về null
     // ngược lại thì set finished = true
-    if (currentIndex + 1 === total) { // 5
+    if (currentIndex + 1 < total) { // 5
       setCurrentIndex(currentIndex + 1);
       setSelectedOption(null);
     } else {
